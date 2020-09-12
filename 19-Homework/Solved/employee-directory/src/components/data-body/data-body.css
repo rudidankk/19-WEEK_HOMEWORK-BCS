@@ -1,0 +1,9 @@
+.name-cell{
+    text-transform: capitalize;
+    background-color:#f4ee41;
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: #eb8328 ;
+}

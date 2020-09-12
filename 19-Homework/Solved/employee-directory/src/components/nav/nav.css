@@ -1,0 +1,14 @@
+.navbar {
+    padding: 30px;
+    margin: 0 auto;
+
+}
+
+.navbar-collapse {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.search-area {
+    justify-content: center;
+}
